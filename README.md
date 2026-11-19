@@ -34,3 +34,8 @@ Source lives in `src/`: `engine.js` (hands, grabbing, step engine, aids, scoring
 `tests/autoplay.py` drives a headless Chrome (Playwright) through every drill with a built-in bot and reports any drill that fails to finish or throws. Run it from the repo root: `python3 tests/autoplay.py '{limited:true,twist:true}'`.
 
 Hand tracking on a real headset has not been verified yet; the automated run covers the browser preview path only.
+
+## License
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
+
+The built `index.html` bundles three.js, which is MIT licensed. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
