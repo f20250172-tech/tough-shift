@@ -1,0 +1,17 @@
+{
+  "name": "tough-shift",
+  "version": "1.0.0",
+  "description": "Hands-first WebXR pressure drills",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "esbuild": "^0.28.2",
+    "three": "^0.187.0"
+  },
+  "private": true
+}
