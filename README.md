@@ -36,6 +36,8 @@ Source lives in `src/`: `engine.js` (hands, grabbing, step engine, aids, scoring
 Hand tracking on a real headset has not been verified yet; the automated run covers the browser preview path only.
 
 ## License
-Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
+Copyright 2026 The TOUGH SHIFT Authors.
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE). Every source file, the build script, the test script and the built `index.html` carry the licence header.
 
 The built `index.html` bundles three.js, which is MIT licensed. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
